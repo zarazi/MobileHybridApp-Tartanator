@@ -1,4 +1,4 @@
 MobileHybridApp-Tartanator
 ==========================
 
-Lab Starter Kit
+Lab Starter Kit for in-class training.
